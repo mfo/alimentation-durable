@@ -1,6 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Alimentation durable de l'Aire Cantilienne
 ---
+
+## Pourquoi questionner notre système/modèle alimentataire ?
+
+1. « il est aujourd’hui parfaitement établi que l’alimentation et l’état nutritionnel participent de façon essentielle au développement et à l’expression clinique des maladies qui sont aujourd’hui les plus répandues en France, comme dans l’ensemble des pays industrialisés », [source: Assemblée Nationale](https://www.assemblee-nationale.fr/dyn/15/rapports/cealimindu/l15b1266-ti_rapport-enquete#_Toc524981165)
+2. « les émissions de gaz à ef-fet  de  serre  issues  de  l’alimentation  des  ménages  en  France  s’élèvent  à  163  Mt  d’eqCO2,  soit  24  %de  l’empreinte  carbone  des  ménages  en  France  au  regard  de  l’empreinte  carbone  totale  évaluée  par  le  SOeS  de  671 MteqCO2 pour l’année 2012 » [source: Ademe](https://www.ademe.fr/sites/default/files/assets/documents/rapport-francais-bilan-carbone-alimentation-france-2019.pdf#00-CarboneAlimentationFrance_FR_21mai.indd%3A.167692%3A5313)
+
+Il semblerait qu'on fonce dans le mur ; ou comme dirait Chirac "La maison brule, et nous regardons ailleurs".
+
+## Et si on crée une alternative ?
+
+Dans le domaine des possibles on peut imaginer remplacer une partie de ce système. Faire comme les anciens – avoir un potager, des poules, des champignons, des fruitiers... Et paf! plus besoin d'aller acheter une salade sous plastique venant d'espagne, qu'a poussée accompagné de pesticides, fongicides, insecticides etc. Voila, le problème est résolu :-)
+
+Enfin presque... pour les anciens le potager c'était un effort collosal.
+* pour l'arrosage : sans eau courante fallait creuser un puit à la main, puis... remonter de l'eau a la main... puis arroser avec un arrosoir.
+* pour travailler la terre : la pratique était très manuelle, il fallait retournait la terre à la main bêche, sortir les pomme de terre à la main, laver les tubercules à l'eau froide.
+* pour l'apprentissage & l'organisation, cela revenait plus de l'heritage culturel (pratique à la maison) que d'un apprentissage formel (cours magistral)
+
+Ce bref retour en arrière nous rappel tout l'interet des pratiques agricoles modernes : le [gain de productivité lié a des progrès technique et a l'évolution des sociétale](https://fr.wikipedia.org/wiki/R%C3%A9volution_agricole#cite_note-:1-8)
+
+## Conclusion
+
+On va donc explorer une approche qui s'inspire tant des traditions passées (le DIY local), que des techniques (Le Jardinier maraicher) et progrès modernes (outillage/organisation/communication).
