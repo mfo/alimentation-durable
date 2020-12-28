@@ -22,19 +22,19 @@ Bref a chaque espece et variete introduite, on ajoute une dose de complexité :
 
 <iframe style="width: 100%; height: 500px; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMMejjrw3akj8J0ZaF4n1wv2VEzP_03ISZWr6CLf9QgqrWxoUar2QzJHhASvOlQ-bjzwcP2Qh2uotE/pubhtml?widget=true&amp;headers=false"></iframe>
 
-## 4 Jardiniers : spécialisation, mutualisation, partage
+## Jardiner ensemble : spécialisation, mutualisation, partage
 
 ### Spécialisation des cultures
 
 Déjà on a décidé de déléguer une partie de notre production les uns aux autres pour de multiples raisons :
 
 * limiter la complexité : en gros on passe d'une 30aine de variété a une 10aine.
-* chacun fait ce qu'il peut/aime : l'année prochaine je plante 2000 poireaux ; au cordeau, ça va trannspirer l'ordre, l'alignement et l'organisation : un potager que je aime!
+* chacun fait ce qu'il peut/aime : l'année prochaine je plante 2000 poireaux (au cordeau, ça va trannspirer l'ordre, l'alignement et l'organisation : un potager que je aime!)
 * la contrainte est amoindri (Florian veut faire de la PDT ; donc il y aura une production mi hative (termine en juillet) mi tardive (termine en septembre) ; entre les deux Florian est en vacs)
 
 ### Mutualisation : des pratiques, des savoirs et des outils
 
-Certains "outils" ou pratiques sont mutualisable, d'autres non. Au premier plan :
+Certains "outils" ou pratiques sont mutualisable, au premier plan :
 
 * la gestion d'une pouponière pour accompagner les graines dans leurs transition en plantule
 * certains outils plus proche de l'outil de profesionnel que de l'outil d'amateur : [houe maraicheres](https://www.scatair.com/houe-maraichere/638-houe-maraichere-terrateck-simple-sans-outil.html?gclid=Cj0KCQiA_qD_BRDiARIsANjZ2LAV_nYk2JFKbTCNexxXoKoKWRz-Et2GRGb5y87mG3sdZ16LePXmm_0aAkOmEALw_wcB), [le séchoire solaire](https://www.solarbrother.com/creation/fabriquer-un-sechoir-solaire/), [semoir pneumatiques](http://forum.latelierpaysan.org/viewtopic.php?t=2929&p=3934#p3934)
