@@ -8,9 +8,7 @@ title: Alimentation durable de l'Aire Cantilienne
 1. « il est aujourd’hui parfaitement établi que l’alimentation et l’état nutritionnel participent de façon essentielle au développement et à l’expression clinique des maladies qui sont aujourd’hui les plus répandues en France, comme dans l’ensemble des pays industrialisés », [source: Assemblée Nationale](https://www.assemblee-nationale.fr/dyn/15/rapports/cealimindu/l15b1266-ti_rapport-enquete#_Toc524981165)
 2. « les émissions de gaz à ef-fet  de  serre  issues  de  l’alimentation  des  ménages  en  France  s’élèvent  à  163  Mt  d’eqCO2,  soit  24  %de  l’empreinte  carbone  des  ménages  en  France  au  regard  de  l’empreinte  carbone  totale  évaluée  par  le  SOeS  de  671 MteqCO2 pour l’année 2012 » [source: Ademe](https://www.ademe.fr/sites/default/files/assets/documents/rapport-francais-bilan-carbone-alimentation-france-2019.pdf#00-CarboneAlimentationFrance_FR_21mai.indd%3A.167692%3A5313)
 
-Il semblerait qu'on fonce dans le mur ; Mais il y a de l'espoir qui requiert de l'audance, de l'ouverture et de l'envie.
-
-<iframe style="margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/vqK4nB29wWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Bon...
 
 ## Et si on crée une alternative ?
 
