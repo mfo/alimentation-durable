@@ -3,6 +3,8 @@ layout: home
 title: Alimentation durable de l'Aire Cantilienne
 ---
 
+# Cooperative alimentaire associative
+
 ## Pourquoi questionner notre système/modèle alimentataire ?
 
 1. « il est aujourd’hui parfaitement établi que l’alimentation et l’état nutritionnel participent de façon essentielle au développement et à l’expression clinique des maladies qui sont aujourd’hui les plus répandues en France, comme dans l’ensemble des pays industrialisés », [source: Assemblée Nationale](https://www.assemblee-nationale.fr/dyn/15/rapports/cealimindu/l15b1266-ti_rapport-enquete#_Toc524981165)
